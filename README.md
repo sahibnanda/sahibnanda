@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahibnanda
-- 👀 I’m interested in data analysis and science
-- 🌱 I’m currently learning numpy and pandas
+- 👀 I’m interested in Computer Science, Mathematics, and Statistics
+- 🌱 I’m currently employed as a Data Analytic 
 - 📫 How to reach me: sahib_nanda@hotmail.com
 
 <!---
