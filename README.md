@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahibnanda
 - 👀 I’m interested in Computer Science, Mathematics, and Statistics
-- 🌱 I’m currently employed as a Data Analytic 
+- 🌱 I’m currently employed as a Data Analyst 
 - 📫 How to reach me: sahib_nanda@hotmail.com
 
 <!---
